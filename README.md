@@ -14,10 +14,10 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-### 📡 Connect with me <br>
+## Connect with me 📡 <br>
 
-<a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/76/000000/linkedin.png"/></a>
-<a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/72/000000/facebook-new.png"/></a><br>
+<a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/90/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/90/000000/facebook-new.png"/></a><br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn)](https://github.com/D-kn/github-readme-stats) -->
