@@ -6,7 +6,7 @@ Here are some ideas to get you started: -->
 - 🎯 Looking for an end of studies internship (5 to 6 months) as soon as possible 
 - 🔭 I’m currently working on some personnal projects 
 - 🌱 I’m currently improving my skills on Data science and AI frameworks
-- 
+<!-- - 💬  -->
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
