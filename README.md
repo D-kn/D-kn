@@ -3,10 +3,10 @@
 **D-kn/D-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 🎯 I'mm Looking for an end of studies internship (5-6 months) as soon as possible
+- 🎯 I'm Looking for a graduation internship (5-6 months) as soon as possible
 - 🔭 I’m currently working on some personnal projects 
 - 🌱 I’m currently improving my skills on Data science and AI frameworks
-- 💬 Can work in Data field or as a Python Developer
+- 💬 Can work in Data field and as a Python Developer
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
