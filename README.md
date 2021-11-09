@@ -3,10 +3,10 @@
 **D-kn/D-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-- 🎯 I'm Looking for a graduation internship (5-6 months) as soon as possible
+- 🎯 I'm Looking for a graduation internship (5-6 months) ASAP
 - 🔭 I’m currently working on some personnal projects 
 - 🌱 I’m currently improving my skills on Data science and AI frameworks
-- 💬 Can work in Data field and as a Python Developer
+- 💬 Can work in Data field or as a Python Developer
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
@@ -14,10 +14,10 @@ Here are some ideas to get you started: -->
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
 
-## 📡 Connect with me <br>
+### 📡 Connect with me <br>
 
-<a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/95/000000/linkedin.png"/></a>
-<a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/90/000000/facebook-new.png"/></a><br>
+<a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/76/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/72/000000/facebook-new.png"/></a><br>
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn)](https://github.com/D-kn/github-readme-stats) -->
