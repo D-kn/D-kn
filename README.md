@@ -12,7 +12,7 @@ Here are some ideas to get you started: -->
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Dicken NGOLO</a>
-- :book: Want to know me more ? : <a href="https://sites.google.com/view/rolvydickenmyblog1234/">My Portfolio</a>
+- :book: Want to know me more ? : <a href="https://sites.google.com/view/rolvydickenmyblog1234/" target="_blank">My Portfolio</a>
 
 <!-- - 😄 Pronouns: ... -->
 <!-- - ⚡ Fun fact: ... -->
