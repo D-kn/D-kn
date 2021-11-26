@@ -5,8 +5,8 @@
 Here are some ideas to get you started: -->
 -  💬 I'm a second year Master student following a double degree in Computer Science 
 - 🔭 I'm Looking for a graduation internship (5-6 months) ASAP
-- :bulb: Can work in Data field or as a Python Developer
-- 🎯 I’m currently working on some personnal projects
+- 🎯 Can work in Data field or as a Python Developer
+- :bulb: I’m currently working on some personnal projects
 - 🌱 I keep improving my skills on Data science, AI frameworks and Python Development ...
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
