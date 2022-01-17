@@ -7,9 +7,9 @@ Here are some ideas to get you started: -->
 - 🔭 I'm Looking for a graduation internship (5-6 months) ASAP
 - 🎯 Can work in Data field or as a Python Developer
 - :bulb: I’m currently working on some personal projects
-- 🌱 I keep improving my skills on Data science, AI frameworks and Python ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🌱 I keep improving my skills on Python,Data science and AI frameworks 
+<!-- - 👯 I’m looking to collaborate on ... -->
+<!-- - 🤔 I’m looking for help with ... -->
 <!-- - 💬 Ask me about ... -->
 - 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Dicken NGOLO</a>
 <!-- - :book: Want to know me more ? : <a href="https://sites.google.com/view/rolvydickenmyblog1234/" target="_blank">My Portfolio</a> -->
