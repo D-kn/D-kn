@@ -19,8 +19,8 @@ Here are some ideas to get you started: -->
 
 ## Connect with me 📡 <br>
 
-<!-- <a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/90/000000/linkedin.png"/></a> -->
-<!-- <a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/90/000000/facebook-new.png"/></a><br> -->
+<a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/90/000000/linkedin.png"/></a>
+<a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/90/000000/facebook-new.png"/></a><br>
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn)](https://github.com/D-kn/github-readme-stats) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn&show_icons=true&theme=radical) -->
