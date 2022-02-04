@@ -8,7 +8,7 @@ Here are some ideas to get you started: -->
 - 🎯 Can work in Data field or as Python Developer
 - :bulb: I’m currently working on some personal projects
 - 🌱 I keep improving my skills on Python(Django), Data science and AI frameworks 
-- 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Leave a message</a>
+- 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Leave me a message</a>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
@@ -62,13 +62,14 @@ Here are some ideas to get you started: -->
 <details>
 <summary>More Skills</summary>
   
-![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Kibana-informational?style=flat&logo=Kibana&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Html5-informational?style=flat&logo=html&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=blue)
 
 </details>
