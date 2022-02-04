@@ -61,6 +61,7 @@ Here are some ideas to get you started: -->
 
 <details>
 <summary>More Skills</summary>
+  
 ![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=orange)
