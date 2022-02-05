@@ -69,7 +69,7 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Kibana-informational?style=flat&logo=Kibana&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Html5-informational?style=flat&logo=html&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=blue)
 
 </details>
