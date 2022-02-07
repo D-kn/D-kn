@@ -70,7 +70,10 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-Kibana-informational?style=flat&logo=Kibana&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=blue)
+
 
 </details>
