@@ -4,7 +4,6 @@
 
 Here are some ideas to get you started: -->
 -  💬 I'm a second year Master student following a double degree in Computer Science 
-<!-- - 🔭 I'm Looking for a graduation internship (5-6 months) ASAP -->
 - 🔭 I like playing with Data. I learn how to collect, process, exploit and model
 them <br> in order to propose business solutions to enterprises.
 - 🎯 Can work in Data field or as Python Developer
