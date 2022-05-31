@@ -5,9 +5,9 @@
 Here are some ideas to get you started: -->
 -  💬 I'm a second year Master student following a double degree in Computer Science.
 - 🔭 I like working with Data. I'm interested in collecting, processing, exploiting and modeling Data <br> in order to propose business solutions to enterprises.
-- 🎯 Can work in Data field or as Python Developer
+- 🎯 Can work in Data field or Python Development
 - :bulb: I’m currently working on my final year internship projects.
-- 🌱 But I'm staying on track with my goals by improving my skills in Python (Django), Data Science and AI frameworks.
+- 🌱 But I stay on track with my goals by improving my skills in Python (Django), Data Science and AI frameworks.
 - 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Leave me a message</a>
 
 <!-- - 👯 I’m looking to collaborate on ... -->
@@ -55,6 +55,7 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=orange)
 <br>
 ...
@@ -62,7 +63,6 @@ Here are some ideas to get you started: -->
 <details>
 <summary>More Skills</summary>
   
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=orange)
