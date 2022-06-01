@@ -1,4 +1,4 @@
-### Hi  👋 I am Dicken,
+### Hi  👋 I'm Dicken,
 <!--
 **D-kn/D-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
