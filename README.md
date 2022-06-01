@@ -4,7 +4,7 @@
 
 Here are some ideas to get you started: -->
 -  💬 I'm a second year Master student following a double degree in Computer Science.
-- 🔭 I like working with Data. I'm interested in collecting, processing, exploiting and modeling Data <br> in order to propose business solutions to enterprises.
+- 🔭 I like working with Data. I'm interested in collecting, processing, exploiting and modeling them <br> in order to propose business solutions to enterprises.
 - 🎯 Can work in Data field or Python Development
 - :bulb: I’m currently working on my final year internship projects.
 - 🌱 But I stay on track with my goals by improving my skills in Python (Django), Data Science and AI frameworks.
