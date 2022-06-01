@@ -10,16 +10,12 @@ Here are some ideas to get you started: -->
 - 🌱 But I stay on track with my goals by improving my skills in Python (Django), Data Science and AI frameworks.
 - 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Leave me a message</a>
 
-<!-- - 👯 I’m looking to collaborate on ... -->
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-<!-- - 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Dicken NGOLO</a> -->
-<!-- - :book: Want to know me more ? : <a href="https://sites.google.com/view/rolvydickenmyblog1234/" target="_blank">My Portfolio</a> -->
+<!--------------------------- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=D-kn.visitor-badge) --->
+<!---------------------------![Visitor Count](https://profile-counter.glitch.me/{D-kn}/count.svg) --->
+![](https://komarev.com/ghpvc/?username=D-kn)
 
-<!-- - 😄 Pronouns: ... -->
-<!-- - ⚡ Fun fact: ... -->
 
-## Connect with me 📡 <br>
+## 🤝 Connect with me <br>
 
 <a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/80/000000/linkedin.png"/></a>
 <a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/80/000000/facebook-new.png"/></a><br>
@@ -36,8 +32,10 @@ Here are some ideas to get you started: -->
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn)
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn&layout=compact)](https://github.com/D-kn/github-readme-stats) -->
 
-<!-- -------------------- Skills --------------------------------------- -->
 
+
+
+<!-- -------------------- Skills --------------------------------------- -->
 ## 🛠️ Skills
 
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
@@ -47,10 +45,10 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/style-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Scikitlearn-informational?style=flat&logo=Scikitlearn&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=orange)
@@ -66,14 +64,15 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Kibana-informational?style=flat&logo=Kibana&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tools-PowerBI-informational?style=flat&logo=PowerBI&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=blue)
 
 
 </details>
+
