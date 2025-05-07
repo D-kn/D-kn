@@ -3,12 +3,12 @@
 **D-kn/D-kn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
--  💬 I'm a second year Master student following a double degree in Computer Science.
-- 🔭 I like working with Data. I'm interested in collecting, processing, exploiting and modeling them <br> in order to propose business solutions to enterprises.
-- 🎯 Can work in Data field or Python Development
-- :bulb: I’m currently working on my final year internship projects.
-- 🌱 But I stay on track with my goals by improving my skills in Python (Django), Data Science and AI frameworks.
-- 📫 How to reach me: <a href="mailto:dickenmoungala@gmail.com">Leave me a message</a>
+- 👨‍💻 I'm a **Junior Data Engineer** with a passion for turning raw data into powerful insights and solutions.
+- 🚀 Skilled in **data collection, processing, analysis, and modeling**, especially within the **Microsoft Azure ecosystem** — including **Azure Synapse**, **Power BI**, **Azure Databricks**, and **Snowflake**.
+- 💡 I enjoy leveraging cloud and big data tools to build scalable, business-driven data pipelines.
+- 🔧 Currently working on **challenging projects** and actively building my **technical and analytical skills**.
+- 🛠️ Continuously enhancing my expertise in Python, PySpark, and modern data platforms.
+- 📫 How to reach me: <a href="mailto:dickenngolo@gmail.com">Leave me a message</a>
 
 <!--------------------------- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=D-kn.visitor-badge) --->
 <!---------------------------![Visitor Count](https://profile-counter.glitch.me/{D-kn}/count.svg) --->
@@ -36,42 +36,49 @@ Here are some ideas to get you started: -->
 
 
 <!-- -------------------- Skills --------------------------------------- -->
-## 🛠️ Skills
+## 🛠️ Technical Skills
 
+### 💻 Languages & Frameworks
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-R-informational?style=flat&logo=R&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=Java&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/style-BootStrap-informational?style=flat&logo=BootStrap&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Git-informational?style=flat&logo=Git&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Scikitlearn-informational?style=flat&logo=Scikitlearn&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Keras-informational?style=flat&logo=Keras&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Pytorch-informational?style=flat&logo=Pytorch&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=orange)
-<br>
-...
+![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=Scala&logoColor=white&color=red)
+![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Code-NoSQL-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=orange)
+
+
+### ☁️ Cloud & Big Data Platforms
+![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Azure%20Data%20Factory-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Azure%20Synapse-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Microsoft%20Fabric-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Databricks-informational?style=flat&logo=databricks&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Tool-Hadoop-informational?style=flat&logo=Apache-Hadoop&logoColor=white&color=yellow)
+
+### 📈 Data Science & BI
+![](https://img.shields.io/badge/Tool-Power%20BI-informational?style=flat&logo=Power%20BI&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=orange)
+
+### 🔧 DevOps & Tools
+![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=black)
+![](https://img.shields.io/badge/Tool-Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=white&color=green)
+![](https://img.shields.io/badge/Tool-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
+
+. . .
 
 <details>
 <summary>More Skills</summary>
-  
+
+![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=Django&logoColor=white&color=green)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&logoColor=white&color=gray)
 ![](https://img.shields.io/badge/Code-Matplotlib-informational?style=flat&logo=Matplotlib&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tools-Tableau-informational?style=flat&logo=Tableau&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Kibana-informational?style=flat&logo=Kibana&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Style-HTML-informational?style=flat&logo=html5&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Style-CSS-informational?style=flat&logo=css3&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=yellow)
-![](https://img.shields.io/badge/Tools-SonarQube-informational?style=flat&logo=SonarQube&logoColor=white&color=blue)
 
 
 </details>
