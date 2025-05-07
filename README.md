@@ -18,7 +18,7 @@ Here are some ideas to get you started: -->
 
 ## 🤝 Let's Connect
 
-<a href="https://www.linkedin.com/in/d-kn/" target="_blank">
+<a href="https://www.linkedin.com/in/dicken-ngolo/" target="_blank">
   <img src="https://img.icons8.com/color/65/linkedin.png" alt="LinkedIn" />
 </a>
 
@@ -35,8 +35,6 @@ Here are some ideas to get you started: -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn&layout=compact)](https://github.com/D-kn/github-readme-stats) -->
 
 
-
-
 <!-- -------------------- Skills --------------------------------------- -->
 ## 🛠️ Technical Skills
 
@@ -46,7 +44,6 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
 ![](https://img.shields.io/badge/NoSQL-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=orange)
-
 
 ### ☁️ Cloud & Big Data Platforms
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
