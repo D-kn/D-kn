@@ -15,10 +15,12 @@ Here are some ideas to get you started: -->
 ![](https://komarev.com/ghpvc/?username=D-kn)
 
 
-## 🤝 Connect with me <br>
 
-<a href="https://www.linkedin.com/in/d-kn/"><img src="https://img.icons8.com/color/80/000000/linkedin.png"/></a>
-<a href="https://www.facebook.com/rolvy.ngolomoungala"><img src="https://img.icons8.com/fluency/80/000000/facebook-new.png"/></a><br>
+## 🤝 Let's Connect
+
+<a href="https://www.linkedin.com/in/d-kn/" target="_blank">
+  <img src="https://img.icons8.com/color/65/linkedin.png" alt="LinkedIn" />
+</a>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=D-kn)](https://github.com/D-kn/github-readme-stats) -->
@@ -38,36 +40,38 @@ Here are some ideas to get you started: -->
 <!-- -------------------- Skills --------------------------------------- -->
 ## 🛠️ Technical Skills
 
-### 💻 Languages & Frameworks
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Scala-informational?style=flat&logo=Scala&logoColor=white&color=red)
-![](https://img.shields.io/badge/Code-SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-NoSQL-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
+### 💻 Languages
+![](https://img.shields.io/badge/Python-informational?style=flat&logo=Python&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Scala-informational?style=flat&logo=Scala&logoColor=white&color=red)
+![](https://img.shields.io/badge/SQL-informational?style=flat&logo=postgresql&logoColor=white&color=blue)
+![](https://img.shields.io/badge/NoSQL-informational?style=flat&logo=MongoDB&logoColor=white&color=green)
 ![](https://img.shields.io/badge/Code-PySpark-informational?style=flat&logo=Apache-Spark&logoColor=white&color=orange)
 
 
 ### ☁️ Cloud & Big Data Platforms
 ![](https://img.shields.io/badge/Cloud-Azure-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Azure%20Data%20Factory-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Azure%20Synapse-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Microsoft%20Fabric-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Databricks-informational?style=flat&logo=databricks&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Tool-Hadoop-informational?style=flat&logo=Apache-Hadoop&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Azure%20Data%20Factory-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Azure%20Synapse-informational?style=flat&logo=Microsoft-Azure&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Microsoft%20Fabric-informational?style=flat&logo=Microsoft&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Databricks-informational?style=flat&logo=databricks&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Snowflake-informational?style=flat&logo=snowflake&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Hadoop-informational?style=flat&logo=Apache-Hadoop&logoColor=white&color=red)
+![](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 
 ### 📈 Data Science & BI
-![](https://img.shields.io/badge/Tool-Power%20BI-informational?style=flat&logo=Power%20BI&logoColor=white&color=yellow)
+![](https://img.shields.io/badge/Power%20BI-informational?style=flat&logo=Power%20BI&logoColor=white&color=yellow)
 ![](https://img.shields.io/badge/Lib-Pandas-informational?style=flat&logo=Pandas&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Lib-Numpy-informational?style=flat&logo=Numpy&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Lib-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Code-Seaborn-informational?style=flat&logo=Seaborn&logoColor=white&color=orange)
 
 ### 🔧 DevOps & Tools
-![](https://img.shields.io/badge/Tool-Git-informational?style=flat&logo=Git&logoColor=white&color=orange)
-![](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=black)
-![](https://img.shields.io/badge/Tool-Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=white&color=green)
-![](https://img.shields.io/badge/Tool-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Git-informational?style=flat&logo=Git&logoColor=white&color=orange)
+![](https://img.shields.io/badge/Airflow-informational?style=flat&logo=Apache-Airflow&logoColor=white&color=blue)
+![](https://img.shields.io/badge/Azure%20DevOps-informational?style=flat&logo=Azure-DevOps&logoColor=white&color=blue)
+<!-- ![](https://img.shields.io/badge/GitHub-informational?style=flat&logo=GitHub&logoColor=white&color=black) -->
 
 . . .
+
 
 <details>
 <summary>More Skills</summary>
@@ -78,7 +82,7 @@ Here are some ideas to get you started: -->
 ![](https://img.shields.io/badge/Code-Plotly-informational?style=flat&logo=Plotly&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-Streamlit-informational?style=flat&logo=Streamlit&logoColor=white&color=orange)
 ![](https://img.shields.io/badge/Code-ElasticSearch-informational?style=flat&logo=ElasticSearch&logoColor=white&color=blue)
-![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=yellow)
+<!-- ![](https://img.shields.io/badge/Code-Github-informational?style=flat&logo=Github&logoColor=white&color=yellow) -->
 
 
 </details>
